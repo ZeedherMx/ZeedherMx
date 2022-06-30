@@ -1,4 +1,14 @@
 ### Hi there 👋
+- 🔭 I’m currently working on applications in ophthalmology of AI.
+- 🌱 I’m currently learning deteccion and segmentation methods, and preprocessing methods fo images.
+- 👯 I’m looking to collaborate on subjects related to medical physics.
+- 🤔 I’m looking for help with Python codes of processing images and enhancement images.
+- 💬 Ask me about Physics, Math, Python, Videogames.
+- 📫 How to reach me: zeedher.ia@gmail.com
+- 😄 Pronouns: Zeed
+ 
+ - ⚡Fun fact: I think my dog is smarter than me. 
+
 
 <!--
 **ZeedherMx/ZeedherMx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
