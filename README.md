@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on applications in ophthalmology of AI.
-- 🌱 I’m currently learning deteccion and segmentation methods, and preprocessing methods fo images.
+- 🌱 I’m currently learning deteccion and segmentation methods, and preprocessing methods for images.
 - 👯 I’m looking to collaborate on subjects related to medical physics.
 - 🤔 I’m looking for help with Python codes of processing images and enhancement images.
 - 💬 Ask me about Physics, Math, Python, Videogames.
